@@ -1,3 +1,3 @@
-# Gitlub-First-
+# GitHub-First-
 ## editing the file
 here edit!
